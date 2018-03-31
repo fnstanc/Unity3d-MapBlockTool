@@ -10,14 +10,14 @@ Unity3d地图占位工具
  - Tool -> MapBlock Tool生成网格可视化对象
  - 在Hierachy选中生成的MapBlockVisualizer对象
 
-![screenshot_0](https://github.com/fnstanc/Unity3d-MapBlockTool/raw/master/Screenshots/0.png)
+![screenshot_0](https://raw.githubusercontent.com/fnstanc/Unity3d-MapBlockTool/master/ScreenShots/0.png)
 
  - 在Inspector创建地图网格，并激活brushMode
-
-![screenshot_1](https://github.com/fnstanc/Unity3d-MapBlockTool/raw/master/Screenshots/1.png)
-
  - 在场景中按鼠标左键刷占位，按Ctrl+鼠标左键擦出占位
- - 占位数据在MapBlock中，通过MapBlock序列化和反序列化到文件
+
+![screenshot_1](https://raw.githubusercontent.com/fnstanc/Unity3d-MapBlockTool/master/ScreenShots/1.png)
+
+ - 占位数据在保存在MapBlock中，通过MapBlock序列化和反序列化到文件
 
 ## 在项目中使用
 ---
